@@ -1,45 +1,49 @@
-## 签到时间: 2025-05-22 09:28:38
+## 签到时间: 2025-05-23 09:39:09
 
 | 账号 | 状态 | 消息 |
 |------|------|------|
-| temp_3810 | 失败 | 未知错误 |
+| temp_3810 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a1ebe0>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_1586 | 失败 | 未知错误 |
 | temp_6121 | 失败 | 未知错误 |
 | temp_8449 | 失败 | 未知错误 |
 | temp_9168 | 失败 | 未知错误 |
-| temp_3344 | 失败 | 未知错误 |
+| temp_3344 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a1e9d0>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_3109 | 失败 | 未知错误 |
 | temp_4882 | 失败 | 未知错误 |
-| temp_0697 | 失败 | 未知错误 |
+| temp_0697 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a1ebe0>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_7383 | 失败 | 未知错误 |
-| temp_8242 | 失败 | 未知错误 |
+| temp_8242 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a2dd60>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_9342 | 失败 | 未知错误 |
 | temp_0156 | 失败 | 未知错误 |
-| temp_3027 | 失败 | 未知错误 |
+| temp_3027 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a1e130>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_1842 | 失败 | 未知错误 |
-| temp_9656 | 失败 | 未知错误 |
+| temp_9656 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a11be0>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_4357 | 失败 | 未知错误 |
 | temp_7340 | 失败 | 未知错误 |
 | temp_8130 | 失败 | 未知错误 |
 | temp_5206 | 失败 | 未知错误 |
-| temp_9370 | 失败 | 未知错误 |
+| temp_9370 | 失败 | 解析响应失败: <html>
+<head><title>504 Gateway Time-out</title><... |
 | temp_7831 | 失败 | 未知错误 |
 | temp_5808 | 失败 | 未知错误 |
 | temp_1263 | 失败 | 未知错误 |
 | temp_3194 | 失败 | 未知错误 |
-| temp_1772 | 失败 | 未知错误 |
+| temp_1772 | 失败 | 解析响应失败: <html>
+<head><title>504 Gateway Time-out</title><... |
 | temp_5049 | 失败 | 未知错误 |
 | temp_0839 | 失败 | 未知错误 |
 | temp_3248 | 失败 | 未知错误 |
 | temp_4250 | 失败 | 未知错误 |
 | temp_8725 | 失败 | 未知错误 |
-| temp_4813 | 失败 | 未知错误 |
+| temp_4813 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a11130>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
 | temp_6033 | 失败 | 未知错误 |
 | temp_1165 | 失败 | 未知错误 |
 | temp_4806 | 失败 | 未知错误 |
-| temp_9069 | 失败 | 未知错误 |
-| temp_3602 | 失败 | 未知错误 |
-| temp_2986 | 失败 | 未知错误 |
+| temp_9069 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4683a73520>: Failed to establish a new connection: [Errno 101] Network is unreachable')) |
+| temp_3602 | 失败 | 解析响应失败: <html>
+<head><title>504 Gateway Time-out</title><... |
+| temp_2986 | 失败 | 解析响应失败: <html>
+<head><title>504 Gateway Time-out</title><... |
 | temp_1711 | 失败 | 未知错误 |
 | temp_8290 | 失败 | 未知错误 |
 | temp_0308 | 失败 | 未知错误 |
