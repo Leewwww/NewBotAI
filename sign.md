@@ -1,4 +1,4 @@
-## 签到时间: 2025-12-22 09:36:37
+## 签到时间: 2025-12-23 09:34:32
 
 | 账号 | 状态 | 消息 |
 |------|------|------|
@@ -22,16 +22,16 @@
 | temp_7340 | 失败 | 未知错误 |
 | temp_8130 | 失败 | 未知错误 |
 | temp_5206 | 失败 | 未知错误 |
-| temp_9370 | 失败 | 未知错误 |
-| temp_7831 | 失败 | 未知错误 |
-| temp_5808 | 失败 | 未知错误 |
-| temp_1263 | 失败 | 未知错误 |
-| temp_3194 | 失败 | 未知错误 |
 | temp_1772 | 失败 | 未知错误 |
 | temp_5049 | 失败 | 未知错误 |
 | temp_0839 | 失败 | 未知错误 |
 | temp_3248 | 失败 | 未知错误 |
 | temp_4250 | 失败 | 未知错误 |
+| temp_9370 | 失败 | 未知错误 |
+| temp_7831 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError("HTTPSConnection(host='openai.newbotai.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) |
+| temp_5808 | 失败 | 未知错误 |
+| temp_1263 | 失败 | 未知错误 |
+| temp_3194 | 失败 | 未知错误 |
 | temp_8725 | 失败 | 未知错误 |
 | temp_4813 | 失败 | 未知错误 |
 | temp_6033 | 失败 | 未知错误 |
