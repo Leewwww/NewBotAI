@@ -1,4 +1,4 @@
-## 签到时间: 2026-09-23 11:24:39
+## 签到时间: 2026-09-24 11:10:59
 
 | 账号 | 状态 | 消息 |
 |------|------|------|
@@ -34,10 +34,10 @@
 | temp_4250 | 失败 | 未知错误 |
 | temp_8725 | 失败 | 未知错误 |
 | temp_4813 | 失败 | 未知错误 |
-| temp_6033 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError("HTTPSConnection(host='openai.newbotai.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) |
+| temp_6033 | 失败 | 未知错误 |
 | temp_1165 | 失败 | 未知错误 |
 | temp_4806 | 失败 | 未知错误 |
-| temp_9069 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError("HTTPSConnection(host='openai.newbotai.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) |
+| temp_9069 | 失败 | 未知错误 |
 | temp_3602 | 失败 | 未知错误 |
 | temp_2986 | 失败 | 未知错误 |
 | temp_1711 | 失败 | 未知错误 |
