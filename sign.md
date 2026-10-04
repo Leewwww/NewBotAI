@@ -1,13 +1,13 @@
-## 签到时间: 2026-10-03 11:56:42
+## 签到时间: 2026-10-04 12:24:56
 
 | 账号 | 状态 | 消息 |
 |------|------|------|
-| temp_3810 | 失败 | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) |
-| temp_1586 | 失败 | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) |
+| temp_3810 | 失败 | 未知错误 |
+| temp_1586 | 失败 | 未知错误 |
 | temp_6121 | 失败 | 未知错误 |
 | temp_8449 | 失败 | 未知错误 |
 | temp_9168 | 失败 | 未知错误 |
-| temp_3344 | 失败 | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) |
+| temp_3344 | 失败 | 未知错误 |
 | temp_3109 | 失败 | 未知错误 |
 | temp_4882 | 失败 | 未知错误 |
 | temp_0697 | 失败 | 未知错误 |
@@ -30,11 +30,11 @@
 | temp_1772 | 失败 | 未知错误 |
 | temp_5049 | 失败 | 未知错误 |
 | temp_0839 | 失败 | 未知错误 |
-| temp_3248 | 失败 | 未知错误 |
+| temp_3248 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError("HTTPSConnection(host='openai.newbotai.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) |
 | temp_4250 | 失败 | 未知错误 |
-| temp_8725 | 失败 | 未知错误 |
+| temp_8725 | 失败 | HTTPSConnectionPool(host='openai.newbotai.cn', port=443): Max retries exceeded with url: /api/user/clock_in?turnstile= (Caused by NewConnectionError("HTTPSConnection(host='openai.newbotai.cn', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable")) |
 | temp_4813 | 失败 | 未知错误 |
-| temp_6033 | 失败 | ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')) |
+| temp_6033 | 失败 | 未知错误 |
 | temp_1165 | 失败 | 未知错误 |
 | temp_4806 | 失败 | 未知错误 |
 | temp_9069 | 失败 | 未知错误 |
@@ -52,12 +52,12 @@
 | temp_6423 | 失败 | 未知错误 |
 | temp_8186 | 失败 | 未知错误 |
 | temp_7333 | 失败 | 未知错误 |
+| temp_2591 | 失败 | 未知错误 |
 | temp_2393 | 失败 | 未知错误 |
 | temp_2724 | 失败 | 未知错误 |
 | temp_8192 | 失败 | 未知错误 |
 | temp_0200 | 失败 | 未知错误 |
 | temp_4371 | 失败 | 未知错误 |
-| temp_2591 | 失败 | 未知错误 |
 
 - 总计: 56 个账号
 - 成功: 0 个
